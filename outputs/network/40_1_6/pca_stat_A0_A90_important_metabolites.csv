@@ -1,0 +1,31 @@
+,NEW (2nd approach PCA-stats),OLD (RF-Stats)
+0,FA(10:1),FA(10:0)
+1,FA(15:0),FA(12:0)
+2,FA(17:0),C14:0 carnitine
+3,FA(22:1),FA(14:0)
+4,FA(22:4),FA(16:0)
+5,FA(24:1),FA(17:0)
+6,Succinyl carnitine,FA(18:0)
+7,3-OH Butyl carnitine,FA(18:1)
+8,C12:0 carnitine,C6:0 carnitine
+9,C14:0 carnitine,"FA(16:1, 9Z)"
+10,Methionine,FA(22:1)
+11,Tyrosine,Succinyl carnitine
+12,beta-Hydroxybutyric acid,Butyryl carnitine
+13,C4OH,C4
+14,C8,C4:1
+15,C10:2,3-OH Butyl carnitine
+16,C10:1,C4OH
+17,C10,C10:0 carnitine
+18,C12:1,C12:0 carnitine
+19,C14:2,C10:1
+20,C14:1,C10
+21,C16:2,C12:1
+22,C16:1,C14:2
+23,C18:2,C14:1
+,,C18:1 carnitine
+,,C6
+,,C8
+,,C12
+,,C7DC
+,,C14:1OH

@@ -1,0 +1,416 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-02-20">
+    <creator>NetworkX 2.6.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="10" title="pvalue" type="float" />
+      <attribute id="11" title="sign" type="float" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="raw_pvalue(A0_A90)" type="float" />
+      <attribute id="1" title="pvalue(A0_A90)" type="float" />
+      <attribute id="2" title="significance(A0_A90)" type="long" />
+      <attribute id="3" title="rf_importance" type="float" />
+      <attribute id="4" title="pca_value_total" type="float" />
+      <attribute id="5" title="pca_value_ptlist2" type="float" />
+      <attribute id="6" title="pca_value_ptlist1" type="float" />
+      <attribute id="7" title="raw_pvalue(A0_A90_combined)" type="float" />
+      <attribute id="8" title="pvalue(A0_A90_combined)" type="float" />
+      <attribute id="9" title="significance(A0_A90_combined)" type="long" />
+    </attributes>
+    <nodes>
+      <node id="FA(15:0)" label="FA(15:0)">
+        <attvalues>
+          <attvalue for="0" value="3.0517578125e-05" />
+          <attvalue for="1" value="0.000213623046875" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1.070318812551021" />
+          <attvalue for="4" value="0.14413665855949667" />
+          <attvalue for="5" value="0.10520954044689347" />
+          <attvalue for="6" value="0.08980618514260741" />
+          <attvalue for="7" value="3.0517578125e-05" />
+          <attvalue for="8" value="0.0001678466796875" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="FA(17:0)" label="FA(17:0)">
+        <attvalues>
+          <attvalue for="0" value="0.000152587890625" />
+          <attvalue for="1" value="0.000823974609375" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2.166300446720964" />
+          <attvalue for="4" value="0.16036174364164085" />
+          <attvalue for="5" value="0.11436957638093097" />
+          <attvalue for="6" value="0.08236689920227264" />
+          <attvalue for="7" value="0.000152587890625" />
+          <attvalue for="8" value="0.0005594889322916667" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="FA(22:1)" label="FA(22:1)">
+        <attvalues>
+          <attvalue for="0" value="0.000152587890625" />
+          <attvalue for="1" value="0.000823974609375" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.4764842078029885" />
+          <attvalue for="4" value="0.38221147164066227" />
+          <attvalue for="5" value="0.20779057624929934" />
+          <attvalue for="6" value="0.1855278474972436" />
+          <attvalue for="7" value="0.000152587890625" />
+          <attvalue for="8" value="0.0005594889322916667" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="FA(22:4)" label="FA(22:4)">
+        <attvalues>
+          <attvalue for="0" value="0.001007080078125" />
+          <attvalue for="1" value="0.0046423935308689025" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.21510792921864663" />
+          <attvalue for="4" value="0.26178948542654656" />
+          <attvalue for="5" value="0.15839406784653992" />
+          <attvalue for="6" value="0.11106078488430053" />
+          <attvalue for="7" value="0.001007080078125" />
+          <attvalue for="8" value="0.0030771891276041665" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="FA(24:1)" label="FA(24:1)">
+        <attvalues>
+          <attvalue for="0" value="0.004180908203125" />
+          <attvalue for="1" value="0.0146331787109375" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.20462503367400026" />
+          <attvalue for="4" value="0.43175921690342633" />
+          <attvalue for="5" value="0.21379899612061187" />
+          <attvalue for="6" value="0.22022171516021022" />
+          <attvalue for="7" value="0.004180908203125" />
+          <attvalue for="8" value="0.0104522705078125" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="Succinyl carnitine" label="Succinyl carnitine">
+        <attvalues>
+          <attvalue for="0" value="0.00213623046875" />
+          <attvalue for="1" value="0.008590373587101064" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1.128449474331364" />
+          <attvalue for="4" value="0.1579177096149368" />
+          <attvalue for="5" value="0.0927280183818064" />
+          <attvalue for="6" value="0.0855261240979469" />
+          <attvalue for="7" value="0.00213623046875" />
+          <attvalue for="8" value="0.005594889322916666" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="3-OH Butyl carnitine" label="3-OH Butyl carnitine">
+        <attvalues>
+          <attvalue for="0" value="3.0517578125e-05" />
+          <attvalue for="1" value="0.000213623046875" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="9.907443736655681" />
+          <attvalue for="4" value="0.19921789469278667" />
+          <attvalue for="5" value="0.1033469459218181" />
+          <attvalue for="6" value="0.14924127219793473" />
+          <attvalue for="7" value="3.0517578125e-05" />
+          <attvalue for="8" value="0.0001678466796875" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="C4OH" label="C4OH">
+        <attvalues>
+          <attvalue for="0" value="3.0517578125e-05" />
+          <attvalue for="1" value="0.000213623046875" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="8.113929513266651" />
+          <attvalue for="4" value="0.21198141775094448" />
+          <attvalue for="5" value="0.11988098272523728" />
+          <attvalue for="6" value="0.14081684409780074" />
+          <attvalue for="7" value="3.0517578125e-05" />
+          <attvalue for="8" value="0.0001678466796875" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="C14:0 carnitine" label="C14:0 carnitine">
+        <attvalues>
+          <attvalue for="0" value="6.103515625e-05" />
+          <attvalue for="1" value="0.00038452148437500004" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1.523261595653757" />
+          <attvalue for="4" value="0.1688036977742785" />
+          <attvalue for="5" value="0.12355442953146259" />
+          <attvalue for="6" value="0.1254775199971467" />
+          <attvalue for="7" value="6.103515625e-05" />
+          <attvalue for="8" value="0.0002582256610576923" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="C14:1" label="C14:1">
+        <attvalues>
+          <attvalue for="0" value="3.0517578125e-05" />
+          <attvalue for="1" value="0.000213623046875" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="5.852391230529823" />
+          <attvalue for="4" value="0.17515776595465646" />
+          <attvalue for="5" value="0.13287064220501202" />
+          <attvalue for="6" value="0.11485247068525313" />
+          <attvalue for="7" value="3.0517578125e-05" />
+          <attvalue for="8" value="0.0001678466796875" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="Methionine" label="Methionine">
+        <attvalues>
+          <attvalue for="0" value="0.001312255859375" />
+          <attvalue for="1" value="0.005767822265625" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.12987775336712049" />
+          <attvalue for="4" value="0.2263189128437883" />
+          <attvalue for="5" value="0.10469508847305539" />
+          <attvalue for="6" value="0.14846422226834147" />
+          <attvalue for="7" value="0.001312255859375" />
+          <attvalue for="8" value="0.0037986353824013158" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="Tyrosine" label="Tyrosine">
+        <attvalues>
+          <attvalue for="0" value="0.005157470703125" />
+          <attvalue for="1" value="0.01710108706825658" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.23941420176967723" />
+          <attvalue for="4" value="0.15162029840975738" />
+          <attvalue for="5" value="0.08934332351290575" />
+          <attvalue for="6" value="0.11804494296073346" />
+          <attvalue for="7" value="0.005157470703125" />
+          <attvalue for="8" value="0.01233308211616848" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="C18:2" label="C18:2">
+        <attvalues>
+          <attvalue for="0" value="0.00030517578125" />
+          <attvalue for="1" value="0.0015178479646381579" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0989282115729884" />
+          <attvalue for="4" value="0.1417148625181617" />
+          <attvalue for="5" value="0.13822736936463992" />
+          <attvalue for="6" value="0.11508521442740419" />
+          <attvalue for="7" value="0.00030517578125" />
+          <attvalue for="8" value="0.0009873334099264705" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="C8" label="C8">
+        <attvalues>
+          <attvalue for="0" value="3.0517578125e-05" />
+          <attvalue for="1" value="0.000213623046875" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="4.038629207488158" />
+          <attvalue for="4" value="0.1938267968846124" />
+          <attvalue for="5" value="0.14399678113750505" />
+          <attvalue for="6" value="0.08426345894700908" />
+          <attvalue for="7" value="3.0517578125e-05" />
+          <attvalue for="8" value="0.0001678466796875" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="C10" label="C10">
+        <attvalues>
+          <attvalue for="0" value="3.0517578125e-05" />
+          <attvalue for="1" value="0.000213623046875" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2.295574485223213" />
+          <attvalue for="4" value="0.20348404934830153" />
+          <attvalue for="5" value="0.15195267986541613" />
+          <attvalue for="6" value="0.12231581229376166" />
+          <attvalue for="7" value="3.0517578125e-05" />
+          <attvalue for="8" value="0.0001678466796875" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="C10:2" label="C10:2">
+        <attvalues>
+          <attvalue for="0" value="0.001678466796875" />
+          <attvalue for="1" value="0.007049560546875" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.10130238664299865" />
+          <attvalue for="4" value="0.10609245953130785" />
+          <attvalue for="5" value="0.0954717441207156" />
+          <attvalue for="6" value="0.11479068820081254" />
+          <attvalue for="7" value="0.001678466796875" />
+          <attvalue for="8" value="0.00461578369140625" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="C10:1" label="C10:1">
+        <attvalues>
+          <attvalue for="0" value="6.103515625e-05" />
+          <attvalue for="1" value="0.00038452148437500004" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1.9279754786146097" />
+          <attvalue for="4" value="0.17977790532852048" />
+          <attvalue for="5" value="0.14023895413012213" />
+          <attvalue for="6" value="0.1220684997994588" />
+          <attvalue for="7" value="6.103515625e-05" />
+          <attvalue for="8" value="0.0002582256610576923" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="C12:1" label="C12:1">
+        <attvalues>
+          <attvalue for="0" value="6.103515625e-05" />
+          <attvalue for="1" value="0.00038452148437500004" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.8606243801032181" />
+          <attvalue for="4" value="0.20326074017992007" />
+          <attvalue for="5" value="0.12334107285726889" />
+          <attvalue for="6" value="0.15108183277092674" />
+          <attvalue for="7" value="6.103515625e-05" />
+          <attvalue for="8" value="0.0002582256610576923" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="C14:2" label="C14:2">
+        <attvalues>
+          <attvalue for="0" value="3.0517578125e-05" />
+          <attvalue for="1" value="0.000213623046875" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="3.0555743801176067" />
+          <attvalue for="4" value="0.1911534638014962" />
+          <attvalue for="5" value="0.14181638015188705" />
+          <attvalue for="6" value="0.10574608317951992" />
+          <attvalue for="7" value="3.0517578125e-05" />
+          <attvalue for="8" value="0.0001678466796875" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="C16:1" label="C16:1">
+        <attvalues>
+          <attvalue for="0" value="0.00030517578125" />
+          <attvalue for="1" value="0.0015178479646381579" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.3716214416694773" />
+          <attvalue for="4" value="0.16856416540960747" />
+          <attvalue for="5" value="0.153507484072724" />
+          <attvalue for="6" value="0.14219143265439046" />
+          <attvalue for="7" value="0.00030517578125" />
+          <attvalue for="8" value="0.0009873334099264705" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="FA(15:0)" target="FA(17:0)" id="0" weight="0.67">
+        <attvalues>
+          <attvalue for="10" value="0.07225038986917962" />
+          <attvalue for="11" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="FA(22:1)" target="FA(22:4)" id="1" weight="0.8">
+        <attvalues>
+          <attvalue for="10" value="0.009964527066327344" />
+          <attvalue for="11" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="FA(22:1)" target="FA(24:1)" id="2" weight="0.77">
+        <attvalues>
+          <attvalue for="10" value="0.01645037264003474" />
+          <attvalue for="11" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="FA(22:1)" target="Succinyl carnitine" id="3" weight="0.67">
+        <attvalues>
+          <attvalue for="10" value="0.07225038986917962" />
+          <attvalue for="11" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="FA(24:1)" target="Succinyl carnitine" id="4" weight="0.79">
+        <attvalues>
+          <attvalue for="10" value="0.014391280222756526" />
+          <attvalue for="11" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="3-OH Butyl carnitine" target="C4OH" id="5" weight="0.86">
+        <attvalues>
+          <attvalue for="10" value="0.0016179918279829524" />
+          <attvalue for="11" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="C14:0 carnitine" target="C14:1" id="6" weight="0.69">
+        <attvalues>
+          <attvalue for="10" value="0.06058637148877742" />
+          <attvalue for="11" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="C14:1" target="C10:1" id="7" weight="0.68">
+        <attvalues>
+          <attvalue for="10" value="0.06979916111253927" />
+          <attvalue for="11" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="C14:1" target="C16:1" id="8" weight="0.67">
+        <attvalues>
+          <attvalue for="10" value="0.07225038986917962" />
+          <attvalue for="11" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="C14:1" target="C18:2" id="9" weight="0.69">
+        <attvalues>
+          <attvalue for="10" value="0.06316276982665892" />
+          <attvalue for="11" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="Methionine" target="Tyrosine" id="10" weight="0.89">
+        <attvalues>
+          <attvalue for="10" value="0.0004735375770695066" />
+          <attvalue for="11" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="Methionine" target="C18:2" id="11" weight="0.71">
+        <attvalues>
+          <attvalue for="10" value="0.05635168780819696" />
+          <attvalue for="11" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="C8" target="C10" id="12" weight="0.95">
+        <attvalues>
+          <attvalue for="10" value="3.3386559002768087e-06" />
+          <attvalue for="11" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="C10:2" target="C10:1" id="13" weight="0.72">
+        <attvalues>
+          <attvalue for="10" value="0.045214076123077304" />
+          <attvalue for="11" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="C10:2" target="C12:1" id="14" weight="0.7">
+        <attvalues>
+          <attvalue for="10" value="0.06058637148877742" />
+          <attvalue for="11" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="C10:1" target="C12:1" id="15" weight="0.91">
+        <attvalues>
+          <attvalue for="10" value="0.00012170200323109978" />
+          <attvalue for="11" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="C10:1" target="C14:2" id="16" weight="0.77">
+        <attvalues>
+          <attvalue for="10" value="0.01645037264003474" />
+          <attvalue for="11" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="C12:1" target="C14:2" id="17" weight="0.73">
+        <attvalues>
+          <attvalue for="10" value="0.041187746259765866" />
+          <attvalue for="11" value="1.0" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
